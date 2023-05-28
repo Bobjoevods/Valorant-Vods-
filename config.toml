@@ -38,15 +38,15 @@ theme = "beautifulhugo"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Sigmanaut"
-  website = "https://github.com/cafebedouin/sigmanauts"
+  name = "Valorant"
+  website = "https://github.com/Bobjoevods"
   email = "qx@sigmanauts.com"
 #  facebook = "username"
   github = "https://github.com/cafebedouin/sigmanauts"
 #  gitlab = "username"
 #  bitbucket = "username"
-  twitter = "https://twitter.com/sigmanauts"
-  reddit = "https://reddit.com/r/ergonauts"
+  twitter = 
+  reddit = 
 #  linkedin = "username"
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
@@ -59,14 +59,14 @@ theme = "beautifulhugo"
 #  itchio = "username"
 #  vk = "username"
 #  paypal = "username"
-  telegram = "https://t.me/Ergo_Chats"
+  telegram = 
 #  500px = "username"
 #  codepen = "username"
 #  mastodon = "url"
 #  kaggle = "username"
 #  weibo = "username"
 #  slack = "username"
-  discord = "https://discord.gg/RC8M4Bkgsy"
+  discord = 
 #  strava = "userid"
 
 
