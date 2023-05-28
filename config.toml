@@ -40,9 +40,9 @@ theme = "beautifulhugo"
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Valorant"
   website = "https://github.com/Bobjoevods"
-  email = "qx@sigmanauts.com"
+  email = ""
 #  facebook = "username"
-  github = "https://github.com/cafebedouin/sigmanauts"
+  github = "https://github.com/Bobjoevods"
 #  gitlab = "username"
 #  bitbucket = "username"
   twitter = 
