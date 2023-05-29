@@ -1,4 +1,4 @@
-# [sigmanauts.com](https://valorantvods.com/)
+valorantvods.com
 
 This repository serves two purposes:
 
